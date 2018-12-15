@@ -1,2 +1,2 @@
 # JavaHibernateTest
-Connecting  To Hibernate Database
+Connecting  To Database using Hibernate
